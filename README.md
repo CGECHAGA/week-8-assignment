@@ -1,4 +1,20 @@
-# week-8-assignment
+# week-8-assignment\
+          Task Manager API 
+   Description
+A robust Task Manager API built with FastAPI and MySQL that allows users to:
+
+1.Create and manage user accounts
+
+2. Create, read, update, and delete tasks
+
+3.Track task status (pending, in progress, completed)
+
+4.Assign tasks to specific users
+
+Perfect for personal productivity tools or team task management systems!
+
+
+
 Question 1: Build a Complete Database Management System
 Objective:
 Design and implement a full-featured database using only MySQL.
